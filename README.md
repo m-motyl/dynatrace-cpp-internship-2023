@@ -1,4 +1,4 @@
-# Dynatrace Gdansk Summer Internship 2023 C++ Assignment
+# Creating a list of objects with the largest date difference in descending order
 
 ## The Task
 
